@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/代理模式/代理模式.iml" filepath="$PROJECT_DIR$/代理模式/代理模式.iml" />
-      <module fileurl="file://$PROJECT_DIR$/代理模式之创建个性代理/代理模式之创建个性代理.iml" filepath="$PROJECT_DIR$/代理模式之创建个性代理/代理模式之创建个性代理.iml" />
-      <module fileurl="file://$PROJECT_DIR$/代理模式之强制代理/代理模式之强制代理.iml" filepath="$PROJECT_DIR$/代理模式之强制代理/代理模式之强制代理.iml" />
-      <module fileurl="file://$PROJECT_DIR$/代理模式之普通代理/代理模式之普通代理.iml" filepath="$PROJECT_DIR$/代理模式之普通代理/代理模式之普通代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式A/代理模式.iml" filepath="$PROJECT_DIR$/代理模式A/代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式E动态代理/代理模式D动态代理.iml" filepath="$PROJECT_DIR$/代理模式E动态代理/代理模式D动态代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式F通用动态代理/代理模式F通用动态代理.iml" filepath="$PROJECT_DIR$/代理模式F通用动态代理/代理模式F通用动态代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式D之创建个性代理/代理模式之创建个性代理.iml" filepath="$PROJECT_DIR$/代理模式D之创建个性代理/代理模式之创建个性代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式C之强制代理/代理模式之强制代理.iml" filepath="$PROJECT_DIR$/代理模式C之强制代理/代理模式之强制代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式B之普通代理/代理模式之普通代理.iml" filepath="$PROJECT_DIR$/代理模式B之普通代理/代理模式之普通代理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射机制/反射机制.iml" filepath="$PROJECT_DIR$/反射机制/反射机制.iml" />
       <module fileurl="file://$PROJECT_DIR$/设计模式.iml" filepath="$PROJECT_DIR$/设计模式.iml" />
     </modules>
   </component>
